@@ -1,0 +1,28 @@
+.item{
+  padding: 30px;
+  list-style: none;
+  
+}
+
+.itemDetails{
+  height: 180px;
+  display: block;
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.chek{
+  position: relative;
+  top: 30px;
+  left: 18px;
+}
+.checck{
+  display: block;
+  height: 20px;
+  width: 20px;
+  background-color: #eee;
+}
+
+
